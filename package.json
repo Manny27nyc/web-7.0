@@ -13,11 +13,11 @@
   },
   "homepage": "http://freenode.net",
   "devDependencies": {
-    "postcss": "^7.0.34",
+    "postcss": "^8.4.31",
     "postcss-cli": "^7.1.2",
     "postcss-csso": "^4.0.0",
     "postcss-preset-env": "^6.7.0",
-    "standard": "^11.0.1",
+    "standard": "^17.1.0",
     "uglify-js": "^3.3.25"
   },
   "standard": {
